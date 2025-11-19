@@ -3,7 +3,7 @@ We’re building the next-generation AI-powered Marketplace & Transport Manageme
 
 Our mission:
 	•	🌍 Make logistics more efficient through AI & automation
-	•	📜 Align with EU regulations (eFTI, GDPR, eIDAS, Green Deal)
+	•	📜 Align with EU regulations (eFTI, eCMR, NIS2, GDPR, eIDAS, CRA, Green Deal)
 	•	🤝 Build an open, community-driven ecosystem
 
 ⸻
