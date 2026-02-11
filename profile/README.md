@@ -17,6 +17,40 @@ _Powered by AI • Built for Business • Designed for Scaleability_
 </div>
 
 
+
+## 🌟 **What is CargoBridge?**
+
+CargoBridge is an enterprise-grade, AI-powered platform that revolutionizes how freight forwarders, carriers, shippers, manufacturers, and service providers collaborate. Built with cutting-edge technology and security-first architecture, it provides intelligent automation, real-time optimization, and seamless integration across the entire logistics ecosystem.
+
+### **🎯 Core Mission**
+
+Transform logistics operations through intelligent automation, sustainable practices, and enhanced transparency while maintaining the highest standards of security and compliance.
+
+
+
+## 🚀 **Key Features**
+
+### **🌍 Intelligent Marketplace**
+
+- **Real-Time Rate Matching**: Get competitive freight rates in seconds using advanced AI algorithms
+- **Predictive Analytics**: ETA prediction, delay alerts, and demand forecasting
+- **Dynamic Pricing**: Market-responsive pricing models with real-time adjustments
+
+### **📋 Operations Management**
+
+- **Automated Documentation**: Auto-generated eFTI, customs paperwork, eCMRs, more
+- **Compliance Automation**: Built-in sanctions screening and trade compliance (17th EU package)
+- **Multi-Modal Support**: Road, rail, sea, and air transport integration
+
+
+### **🌱 Sustainability**
+
+- **CO₂ Emission Tracking**: Accurate per-shipment reporting (GLEC framework)
+- **Green Route Options**: Eco-friendly transport alternatives
+- **ISO 14001 Alignment**: Environmental management standards
+
+
+
 Thank you for your interest in contributing to CargoBridge 🚚✨
 We’re building the next-generation AI-powered Marketplace & Transport Management System (TMS) for Europe & beyond.
 
