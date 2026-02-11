@@ -9,7 +9,7 @@
 [![Security](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/CargoBridge/cargobridge)
 [![PWA](https://img.shields.io/badge/PWA-Ready-purple)](https://developers.google.com/web/progressive-web-apps)
 
-**Europe's Freight Marketplace & Transport Management System (TMS) for Logistics & Supply Chain Professionals**
+#Europe's Freight Marketplace & Transport Management System (TMS) for Logistics & Supply Chain Professionals
 
 _Powered by AI • Built for Business • Designed for Scaleability_
 
