@@ -1,6 +1,3 @@
-
-# 🚀 CargoBridge: Enterprise AI-Powered Logistics Platform
-
 <div align="center">
 <img src="https://github.com/CargoBridge/Docs-Tutorials/blob/main/Banner.png"/>
 <br>
