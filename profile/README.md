@@ -2,7 +2,7 @@
 # 🚀 CargoBridge: Enterprise AI-Powered Logistics Platform
 
 <div align="center">
-<img src="/cargobridge/Bannerpng"/>
+<img src="/cargobridge/Banner.png"/>
 <br>
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
