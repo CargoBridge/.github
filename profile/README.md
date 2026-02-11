@@ -14,7 +14,6 @@ _Powered by AI • Built for Business • Designed for Scaleability_
 
 [🌐 Live Demo](https://cargobridge.io) • [📖 Documentation](https://docs.cargobridge.io) • [💬 Discord](https://discord.gg/2P3WBmhpga) • [🔗 LinkedIn](https://www.linkedin.com/company/cargobridge/)
 
-</div>
 
 
 
@@ -25,6 +24,7 @@ CargoBridge is a platform that revolutionizes how carriers, shippers, freight fo
 ### **🎯 Core Mission**
 
 Transform logistics operations through intelligent automation, sustainable practices, and enhanced transparency while maintaining the highest standards of security and compliance. Highlighting eFTI's benefits through real world practice.
+</div>
 
 <br>
 
@@ -51,6 +51,29 @@ Transform logistics operations through intelligent automation, sustainable pract
 
 <br>
 
+
+## 🛠 How to Contribute
+
+We welcome contributions of all kinds; features, fixes, documentation improvements, translations, integrations, security enhancements, and UI/UX refinements.
+
+1.  **Fork** the repository you’d like to contribute to.
+    
+2.  **Create a new branch** for your change:
+    
+    `git checkout -b feature/my-feature` 
+    
+3.  **Make your changes** and ensure everything works as expected.
+    
+4.  **Commit with clear messages** describing what you’ve done.
+    
+5.  **Submit a Pull Request (PR)** with a concise explanation of the problem and your solution.
+    
+
+Please keep PRs focused and well-documented to help us review them efficiently.
+
+If you need additional guidance, architecture details, or setup instructions, please refer to the **Docs-Tutorials** repository.
+
+<br>
 
 ## 📄 License
 
