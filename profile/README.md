@@ -20,7 +20,7 @@ _Powered by AI • Built for Business • Designed for Scaleability_
 
 ## 🌟 **What is CargoBridge?**
 
-CargoBridge is an enterprise-grade, AI-powered platform that revolutionizes how freight forwarders, carriers, shippers, manufacturers, and service providers collaborate. Built with cutting-edge technology and security-first architecture, it provides intelligent automation, real-time optimization, and seamless integration across the entire logistics ecosystem.
+CargoBridge is a platform that revolutionizes how carriers, shippers, freight forwarders,and service providers collaborate. Built with cutting-edge technology and security-first architecture, it provides intelligent automation, real-time optimization, and seamless integration across the entire European and Global logistics ecosystem.
 
 ### **🎯 Core Mission**
 
