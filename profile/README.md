@@ -54,7 +54,7 @@ Transform logistics operations through intelligent automation, sustainable pract
 
 ## 📄 License
 
-Unless otherwise stated, contributions to CargoBridge are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+Unless otherwise stated, contributions are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 The open-source parts of CargoBridge are released under AGPL-3.0. However, certain components. Including the main production back-end and related infrastructure remain proprietary and are **not** part of the open-source release.
 
