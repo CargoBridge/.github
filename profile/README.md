@@ -5,11 +5,11 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)
 [![Security](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/CargoBridge/cargobridge)
 [![PWA](https://img.shields.io/badge/PWA-Ready-purple)](https://developers.google.com/web/progressive-web-apps)
-
-#Europe's Freight Marketplace & Transport Management System (TMS) for Logistics & Supply Chain Professionals
+<br>
+<br>
+<h1>Europe's Freight Marketplace & Transport Management System (TMS) for Logistics & Supply Chain Professionals</h1>
 
 _Powered by AI • Built for Business • Designed for Scaleability_
 
