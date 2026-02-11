@@ -24,7 +24,7 @@ CargoBridge is a platform that revolutionizes how carriers, shippers, freight fo
 
 ### **🎯 Core Mission**
 
-Transform logistics operations through intelligent automation, sustainable practices, and enhanced transparency while maintaining the highest standards of security and compliance.
+Transform logistics operations through intelligent automation, sustainable practices, and enhanced transparency while maintaining the highest standards of security and compliance. Highlighting eFTI's benefits through real world practice.
 
 
 
